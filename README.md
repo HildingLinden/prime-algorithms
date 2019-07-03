@@ -7,7 +7,7 @@ Below are planned versions and the execution time of the ones I have implemented
   
 |                                 | C | ASM | Multi-threaded (C + ASM) |  Multi-threaded  + AVX2 (intrinsics) | Multi-threaded + AXV2 (C + ASM) | CUDA |
 |---------------------------------|---|-----|--------------------------|--------------------------------------|---------------------------------|------|
-| Simple but somewhat optimized   | 2m10.419s  |     |                          |                                      |                                 |      |
+| Simple but somewhat optimized   | 2m10.419s  |  2m10.617s  |                          |                                      |                                 |      |
 | Sieve of eratosthenes           |   |     |                          |                                      |                                 |      |
 | Segmented sieve of eratosthenes |   |     |                          |                                      |                                 |      |
 
