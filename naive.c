@@ -1,5 +1,5 @@
 #include <stdio.h>
-#ínclude <stdlib.h>
+#include <stdlib.h>
 
 int sieve(unsigned int max) {
 	unsigned int nrOfPrimes = 0;
@@ -19,7 +19,7 @@ int main(int argc, char *argv[]) {
 		printf("Please specify the limit of the prime search\n");
 		return 1;
 	}
-	sieve(strtotul(argv[1], NULL, 10));
+	sieve(strtoul(argv[1], NULL, 10));
 
 	return 0;
 }

@@ -13,5 +13,5 @@ Below are planned versions and the execution time of the ones I have implemented
 | Multi-threaded Segmented Sieve of Eratosthenes |           |           |                   |            |      |
 
 &nbsp;  
-Each column will be in it's own folder and the files will be called simple, sieve and segSieve.  
+Each column will be in it's own folder and the files will have the suffixes simple, simpleMulti, sieve and sieveMulti.  
 The most basic version is in C and is called naive.c. It is located in the main directory.
