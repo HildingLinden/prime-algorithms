@@ -8,7 +8,7 @@ Below are planned versions and the execution time of the ones I have implemented
 |                                                | C         | ASM       | AVX2 (intrinsics) | AVX2 (ASM) | CUDA |
 |------------------------------------------------|-----------|-----------|-------------------|------------|------|
 | Simple optimizations                           | 2m10.419s | 2m10.617s |     1m48.924s     |            |      |
-| Multi-threaded simple optimizations            |           |           |                   |            |      |
+| Multi-threaded simple optimizations            |           | 0m22.564s |                   |            |      |
 | Sieve of Eratosthenes                          |           |           |                   |            |      |
 | Multi-threaded Segmented Sieve of Eratosthenes |           |           |                   |            |      |
 
