@@ -9,7 +9,7 @@ Below are planned versions and the execution time of the ones I have implemented
 |------------------------------------------------|-----------|-----------|-------------------|------------|------|
 | Simple optimizations                           | 2m10.419s | 2m10.617s |     1m48.924s     |   23.952s     |      |
 | Multi-threaded simple optimizations            |           | 0m22.564s |                   |            |      |
-| Sieve of Eratosthenes                          |           |           |                   |            |      |
+| Sieve of Eratosthenes                          | 0m0.673s  |           |                   |            |      |
 | Multi-threaded Segmented Sieve of Eratosthenes |           |           |                   |            |      |
 
 &nbsp;  
